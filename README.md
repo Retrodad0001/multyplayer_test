@@ -1,2 +1,2 @@
 # multiplayer_test
-Multiplayer Test wih Odin, SDL3 and ENet 
+Multiplayer Test wih C and SDL3 while creating pong
